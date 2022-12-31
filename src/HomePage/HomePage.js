@@ -102,8 +102,8 @@ const HomePage = () => {
                   <u>Skills I possess:</u>
                 </p>
                 <b>
-                  HTML, CSS, JavaScript, React, Git, GitHub, TailwindCSS,
-                  Figma,Bootstrap,Node JS, Blender, Python (Basics).
+                  HTML, CSS, JavaScript, ReactJS, Git, GitHub, TailwindCSS,
+                  Figma, Bootstrap, Blender, Node JS, Python (Basics).
                 </b>
               </ul>
             </p>

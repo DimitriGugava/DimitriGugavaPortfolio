@@ -122,11 +122,27 @@
       "livelink": "https://e-commerce-produc-page.vercel.app/",
       "projectbackground": "This is a single page web design with several interesting functions. You can add the product to the cart where you can see the discount and also, you can add products. You can change images of shoes. The website is responsive. I used mobile first approach.",
       "PreviousProject": "GitHub user search app",
-      "NextProject": "No Next Project...",
+      "NextProject": "Planet-Facts",
       "projectimage": {
         "imagepreview": {
           "photo": "/data/productpage.jpg",
           "phototwo": "/data/productpage1.jpg"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Planet-Facts",
+      "description": "This is a web app that displays info about different planet with cool graphic illustrations. I built this within a day in ReactJS.",
+      "githublink": "https://github.com/DimitriGugava/planetFacts",
+      "livelink": "https://planet-facts-ruby.vercel.app/",
+      "projectbackground": "The App interesting features. You can see info about planets and also, see how their structure or geology looks. The website is responsive. I used mobile first approach.",
+      "PreviousProject": "E commerce product pag",
+      "NextProject": "No Next Project...",
+      "projectimage": {
+        "imagepreview": {
+          "photo": "/data/planets.png",
+          "phototwo": "/data/planets.png"
         }
       }
     }
