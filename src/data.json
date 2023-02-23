@@ -2,18 +2,18 @@
   "projects": [
     {
       "id": 1,
-      "name": "Single Web-Page",
-      "description": "Responsive one page web-page, built in ReactJS. Users should be able to: View the optimal layout for the site depending on their device's screen size, See hover states for all interactive elements on the page, Navigate the slider using either their mouse/trackpad or keyboard.",
-      "githublink": "https://github.com/DimitriGugava/Single-page-design.git",
-      "livelink": "https://single-page-design-rosy.vercel.app/",
-      "projectbackground": "The project took me about 5 hours to complete. It is responsive - desktop, tablet and mobile versions. Poject was built with: ReactJS",
+      "name": "Dine Restaurant Web-Page",
+      "description": "Responsive web-page, built in ReactJS. Where Users should be able to: book an appointment at Restaurant. Also, View the optimal layout for the site depending on their device's screen size,  Navigate to different pages to see services restaurant offers.",
+      "githublink": "https://github.com/DimitriGugava/Restaurant-Website",
+      "livelink": "https://restaurant-website-ashen.vercel.app/",
+      "projectbackground": "I used React Router, TypeScript, ReactJS. It is responsive - desktop, tablet and mobile versions.",
       "PreviousProject": "No Previous Project...",
       "NextProject": "Tip Calculator",
       "projectimage": {
         "imagepreview": {
-          "photo": "/data/singlepage.png",
-          "phototwo": "/data/singlepagetwo.png",
-          "staticphoto": "/data/singlepagestatic.png"
+          "photo": "/data/restaurantimage.jpg",
+          "phototwo": "/data/restaurantstatic.jpg",
+          "staticphoto": "/data/restaurantstatic.jpg"
         }
       }
     },
@@ -23,8 +23,8 @@
       "description": "This was a really interesting Challenge especially because of the React part. Just like other challenges, i chose mobile first approach. For the first time I faced some functional challenges bigger than that was previous time. The challenge for me was how to read values from the fields after user inputs the proper value (and not NaN). But I figured it out by using the change event listener on all input fields. ",
       "githublink": "https://github.com/DimitriGugava/tip-calculator-app",
       "livelink": "https://dimitrigugava.github.io/tip-calculator-app/",
-      "projectbackground": "Users should be able to: View the optimal layout for the app depending on their device's screen size; See hover states for all interactive elements on the page; Calculate the correct tip and total cost of the bill per person. Project was buit with - React JS",
-      "PreviousProject": "Single Page Design",
+      "projectbackground": "A convenient tool for calculating tips in restaurants or other service industries. Simply enter the total bill amount, select a tip percentage, and the calculator will display the recommended tip amount and total bill including tip. Helps to avoid confusion and ensure fair compensation for service providers. Available as a web or mobile application for easy access on-the-go",
+      "PreviousProject": "Dine Restaurant Web-Page",
       "NextProject": "ToDo-App",
       "LiveLink": "https://dimitrigugava.github.io/tip-calculator-app/",
       "projectimage": {
@@ -77,7 +77,7 @@
       "NextProject": " FAQ Card",
       "projectimage": {
         "imagepreview": {
-          "photo": "/data/pricingcomponent.png",
+          "photo": "/data/interactivedesktop.jpg",
           "phototwo": "/data/pricingcomponent.png"
         }
       }
